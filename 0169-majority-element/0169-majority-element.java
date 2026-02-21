@@ -7,7 +7,12 @@ class Solution {
             if (count == 0) {
                 neeraj = num;
             }
-            count += (num == neeraj) ? 1 : -1;
+            if (num == neeraj) {
+    count += 1; 
+} else {
+    count -= 1;  
+}
+
         }
         return neeraj;
     }
