@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
@@ -56,5 +57,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
