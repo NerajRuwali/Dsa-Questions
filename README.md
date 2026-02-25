@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0189-rotate-array) |
 ## Greedy
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bit Manipulation
