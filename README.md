@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0224-basic-calculator) |
+| [0415-add-strings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0415-add-strings) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bit Manipulation
 |  |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0074-search-a-2d-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
