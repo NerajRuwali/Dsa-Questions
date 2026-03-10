@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -245,10 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0415-add-strings) |
 ## Number Theory
