@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0224-basic-calculator) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0226-invert-binary-tree) |
 | [0743-network-delay-time](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0226-invert-binary-tree) |
 ## Graph Theory
 |  |
