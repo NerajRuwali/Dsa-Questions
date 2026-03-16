@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0162-find-peak-element) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0136-single-number) |
 | [0868-binary-gap](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Trie
