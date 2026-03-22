@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0415-add-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Bit Manipulation
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0224-basic-calculator) |
+| [1021-remove-outermost-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
