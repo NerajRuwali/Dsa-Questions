@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1922-count-good-numbers) |
 ## String Matching
 |  |
 | ------- |
