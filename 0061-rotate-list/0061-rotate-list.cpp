@@ -25,10 +25,10 @@ public:
             len++;
         }
 
-        // make circular
+        // isse hm circular bana de rahe ha 
         temp->next = head;
 
-        // reduce k
+    
         k = k % len;
 
         int steps = len - k;
