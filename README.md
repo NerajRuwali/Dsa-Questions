@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0217-contains-duplicate) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0258-add-digits) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0258-add-digits) |
 ## Linked List
 |  |
@@ -499,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0216-combination-sum-iii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
