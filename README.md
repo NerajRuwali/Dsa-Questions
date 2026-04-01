@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0258-add-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0415-add-strings) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0231-power-of-two) |
 | [0868-binary-gap](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Trie
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1922-count-good-numbers) |
