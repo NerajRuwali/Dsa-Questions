@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
