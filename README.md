@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0225-implement-stack-using-queues](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [2069-walking-robot-simulation-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2069-walking-robot-simulation-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0258-add-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0657-robot-return-to-origin) |
+| [2069-walking-robot-simulation-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
