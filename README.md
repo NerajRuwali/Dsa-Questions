@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Counting
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0657-robot-return-to-origin](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0657-robot-return-to-origin) |
 | [2069-walking-robot-simulation-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Number Theory
 |  |
 | ------- |
