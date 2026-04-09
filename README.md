@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1901-find-a-peak-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0169-majority-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Counting
 |  |
 | ------- |
