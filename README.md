@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0290-word-pattern](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0392-is-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0796-rotate-string) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0209-minimum-size-subarray-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
