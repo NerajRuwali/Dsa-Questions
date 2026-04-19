@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0135-candy](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1004-max-consecutive-ones-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -357,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1248-count-number-of-nice-subarrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
 | ------- |
