@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0875-koko-eating-bananas](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0930-binary-subarrays-with-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0451-sort-characters-by-frequency](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Dynamic Programming
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0209-minimum-size-subarray-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0219-contains-duplicate-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
