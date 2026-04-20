@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0628-maximum-product-of-three-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0496-next-greater-element-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0846-hand-of-straights](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0846-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0402-remove-k-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0846-hand-of-straights) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
