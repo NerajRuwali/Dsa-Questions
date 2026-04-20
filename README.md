@@ -620,4 +620,8 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
