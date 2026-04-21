@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0232-implement-queue-using-stacks](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0901-online-stock-span) |
 | [2069-walking-robot-simulation-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2069-walking-robot-simulation-ii) |
 ## Recursion
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0226-invert-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0226-invert-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Graph Theory
 |  |
 | ------- |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0355-design-twitter](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0621-task-scheduler) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
@@ -622,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0901-online-stock-span) |
 ## Merge Sort
 |  |
@@ -636,4 +641,8 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
