@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2615-sum-of-distances](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2615-sum-of-distances) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Hash Table
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1248-count-number-of-nice-subarrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2615-sum-of-distances](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2615-sum-of-distances) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1248-count-number-of-nice-subarrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2615-sum-of-distances](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2615-sum-of-distances) |
 ## Sliding Window
 |  |
 | ------- |
