@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0283-move-zeroes](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0435-non-overlapping-intervals](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0485-max-consecutive-ones) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0124-binary-tree-maximum-path-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0242-valid-anagram](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0455-assign-cookies) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0134-gas-station](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0621-task-scheduler) |
