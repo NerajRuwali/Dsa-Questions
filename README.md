@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0045-jump-game-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0118-pascals-triangle) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0013-roman-to-integer](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -671,4 +673,8 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
