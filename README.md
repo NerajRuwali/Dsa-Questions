@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Design
 |  |
 | ------- |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0073-set-matrix-zeroes](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0085-maximal-rectangle) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
 |  |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0743-network-delay-time) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -596,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0112-path-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0226-invert-binary-tree) |
 | [0743-network-delay-time](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0743-network-delay-time) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
