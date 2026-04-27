@@ -1,17 +1,16 @@
 class Solution {
-public:
-    int rob(vector<int>& nums) {
-        int loot = 0; // loot current
-        int skip = 0; // skip current
+    public:
+    int rob(vector <int> & nums) {
+        int loot = 0;
+        int skip = 0;
 
-        for(int money : nums) {
-            int newLoot = skip + money; // agar loot kiya
-            int newSkip = max(loot, skip); // agar skip kiya
+        for(int money: nums) {
+            int newLoot = skip + money;
+            int newSkip = max(loot , skip);
 
             loot = newLoot;
             skip = newSkip;
         }
-
-        return max(loot, skip);
+        return max(loot,skip);
     }
 };
