@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0300-longest-increasing-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0078-subsets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0494-target-sum) |
 ## Enumeration
 |  |
 | ------- |
