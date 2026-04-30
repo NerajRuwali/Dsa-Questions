@@ -5,8 +5,6 @@ public:
         int n = nums.size();
         int candidate1 = -1, candidate2 = -1;
         int count1 = 0, count2 = 0;
-
-        // find the candidate
         for(int num : nums){
             if(num == candidate1){
                 count1++;
@@ -27,9 +25,6 @@ public:
                 count2--;
             }
         }
-
-            // verification
-        
         count1 = 0;
         count2 = 0;
 
