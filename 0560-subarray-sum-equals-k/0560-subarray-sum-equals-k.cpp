@@ -4,7 +4,7 @@ public:
 
         unordered_map<int,int> mp;
 
-        mp[0] = 1; // basically hands case like {3,2} and target i.e k is 5
+        mp[0] = 1; 
 
         int sum =0, count = 0;
 
