@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0177-nth-highest-salary](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0182-duplicate-emails) |
+| [0185-department-top-three-salaries](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0577-employee-bonus) |
