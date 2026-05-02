@@ -33,11 +33,11 @@ public:
             else if(num == candidate2) count2++;   
         }
 
-        vector<int> result;
+        vector<int> answer;
 
-        if(count1 > n/3) result.push_back(candidate1);
-        if(count2 > n/3) result.push_back(candidate2);
+        if(count1 > n/3) answer.push_back(candidate1);
+        if(count2 > n/3) answer.push_back(candidate2);
 
-        return result;
+        return answer;
     }
 };
