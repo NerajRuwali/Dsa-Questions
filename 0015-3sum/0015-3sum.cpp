@@ -13,9 +13,9 @@ public:
             int k = nums.size() - 1;
 
             while(j < k){
-                int sum = nums[i] + nums[j] + nums[k];
+                int sum = nums[i] + nums[j] + nums[k] ;
 
-                if(sum == 0){
+                if(sum == 0) {
                     result.push_back({nums[i], nums[j], nums[k]});
                     j++;
                     k--;
