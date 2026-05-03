@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0224-basic-calculator](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0415-add-strings) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0209-minimum-size-subarray-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0875-koko-eating-bananas) |
