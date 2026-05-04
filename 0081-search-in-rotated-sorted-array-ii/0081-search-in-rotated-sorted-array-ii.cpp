@@ -9,19 +9,18 @@ public:
             if (nums[mid] == target)
                 return true;
 
-            // HANDLE DUPLICATES
+       
             if (nums[left] == nums[mid] && nums[mid] == nums[right]) {
                 left++;
                 right--;
             }
-            // LEFT SORTED
+     
             else if (nums[left] <= nums[mid]) {
                 if (nums[left] <= target && target < nums[mid])
                     right = mid - 1;
                 else
                     left = mid + 1;
             }
-            // RIGHT SORTED
             else {
                 if (nums[mid] < target && target <= nums[right])
                     left = mid + 1;
