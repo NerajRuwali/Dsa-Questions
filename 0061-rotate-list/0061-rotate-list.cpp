@@ -12,26 +12,20 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        
-        if(head == NULL || head->next == NULL || k == 0)
+         if(head == NULL || head->next == NULL || k == 0)
             return head;
 
         ListNode* temp = head;
-        int len = 1;
+          int len = 1;
 
-        // find length
         while(temp->next != NULL){
             temp = temp->next;
             len++;
         }
 
-        // isse hm circular bana de rahe ha 
         temp->next = head;
-
-    
         k = k % len;
-
-        int steps = len - k;
+       int steps = len - k;
 
         ListNode* newTail = head;
 
