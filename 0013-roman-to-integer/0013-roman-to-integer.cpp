@@ -6,9 +6,7 @@ public:
             {'L',50}, {'C',100},
             {'D',500}, {'M',1000}
         };
-
         int result = 0;
-
         for (int i = 0; i < s.length(); i++) {
             if (i < s.length()-1 && mp[s[i]] < mp[s[i+1]]) {
                 result -= mp[s[i]];
@@ -16,7 +14,6 @@ public:
                 result += mp[s[i]];
             }
         }
-
-        return result;
+             return result;
     }
 };
