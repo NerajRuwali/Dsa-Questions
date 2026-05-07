@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [2615-sum-of-distances](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2615-sum-of-distances) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3660-jump-game-ix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3660-jump-game-ix) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0788-rotated-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0788-rotated-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [3660-jump-game-ix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3660-jump-game-ix) |
 ## Sorting
 |  |
 | ------- |
