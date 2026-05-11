@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2615-sum-of-distances) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1914-cyclically-rotating-a-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2553-separate-the-digits-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Number Theory
 |  |
