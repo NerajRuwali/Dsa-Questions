@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1861-rotating-the-box](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1861-rotating-the-box) |
 | [1901-find-a-peak-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1901-find-a-peak-element-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0628-maximum-product-of-three-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0846-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0678-valid-parenthesis-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0860-lemonade-change) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
