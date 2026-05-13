@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0347-top-k-frequent-elements](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0396-rotate-function) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0455-assign-cookies) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0355-design-twitter](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0383-ransom-note) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0496-next-greater-element-i) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0136-single-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0868-binary-gap](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Trie
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0139-word-break) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Rolling Hash
 |  |
 | ------- |
