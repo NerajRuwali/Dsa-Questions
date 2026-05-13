@@ -7,7 +7,7 @@ public:
             int a = nums[i];
             int b = nums[n - 1 - i];
             if (a > b)
-                swap(a, b);
+                swap(a, b); //
             diff[2] += 2;
         diff[a + 1] -= 1;
          diff[a + b] -= 1;
