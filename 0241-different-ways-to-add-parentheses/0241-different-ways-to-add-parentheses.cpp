@@ -31,7 +31,6 @@ public:
             }
         }
 
-        // base case
         if (ans.empty()) {
             ans.push_back(stoi(expression));
         }
