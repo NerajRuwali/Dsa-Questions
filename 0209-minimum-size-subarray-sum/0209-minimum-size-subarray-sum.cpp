@@ -10,9 +10,8 @@ public:
         
         while(end < n) {
             
-            sum += nums[end];  // add number to the sum
-            
-            // window ki length ko decrease krna ha 
+            sum += nums[end];  
+          
             while(sum >= target) {
                 total = min(total, end - start + 1);
                 sum -= nums[start];   
