@@ -8,8 +8,6 @@ public:
 
             freq[s[right] - 'A']++;
             maxFreq = max(maxFreq, freq[s[right] - 'A']);
-
-            // shrink krdo window ko agar k se jyada replacemnet krne ki jrurat pd rhi ha toh
             while ((right - left + 1) - maxFreq > k) {
                 freq[s[left] - 'A']--;
                 left++;
