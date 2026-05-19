@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0451-sort-characters-by-frequency](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0287-find-the-duplicate-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1861-rotating-the-box) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0424-longest-repeating-character-replacement](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0219-contains-duplicate-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1004-max-consecutive-ones-iii) |
