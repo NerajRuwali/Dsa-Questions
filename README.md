@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0229-majority-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0219-contains-duplicate-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0355-design-twitter) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0217-contains-duplicate](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0435-non-overlapping-intervals) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0231-power-of-two](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0396-rotate-function) |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0090-subsets-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0868-binary-gap](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0868-binary-gap) |
@@ -455,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0162-find-peak-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0367-valid-perfect-square) |
