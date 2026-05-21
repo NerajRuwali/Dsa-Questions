@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [2615-sum-of-distances](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Dynamic Programming
 |  |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0014-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
