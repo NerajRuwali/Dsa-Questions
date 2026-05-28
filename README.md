@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1306-jump-game-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1345-jump-game-iv) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0930-binary-subarrays-with-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
