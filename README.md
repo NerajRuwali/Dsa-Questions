@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0300-longest-increasing-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0396-rotate-function) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0268-missing-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0383-ransom-note) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0268-missing-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0234-palindrome-linked-list](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0567-permutation-in-string) |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0268-missing-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0704-binary-search) |
