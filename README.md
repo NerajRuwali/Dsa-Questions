@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1914-cyclically-rotating-a-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2104-sum-of-subarray-ranges) |
+| [2126-destroying-asteroids](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1340-jump-game-v](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2126-destroying-asteroids](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2126-destroying-asteroids) |
 ## Divide and Conquer
 |  |
 | ------- |
