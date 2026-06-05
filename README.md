@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1871-jump-game-vii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3660-jump-game-ix) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1922-count-good-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1922-count-good-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
 |  |
 | ------- |
