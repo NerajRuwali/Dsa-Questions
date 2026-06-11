@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1922-count-good-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0701-insert-into-a-binary-search-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0743-network-delay-time](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0743-network-delay-time) |
 | [1306-jump-game-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
