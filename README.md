@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0198-house-robber](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0392-is-subsequence) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0241-different-ways-to-add-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0396-rotate-function) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0104-maximum-depth-of-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0743-network-delay-time) |
 | [1306-jump-game-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1306-jump-game-iii) |
