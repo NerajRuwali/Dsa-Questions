@@ -13,7 +13,7 @@ public:
             } else {
                 right--;
                 rightMax = max(rightMax, height[right]);
-                ans += rightMax - height[right];
+                ans += rightMax -height[right];
             }
         }
         return ans;
