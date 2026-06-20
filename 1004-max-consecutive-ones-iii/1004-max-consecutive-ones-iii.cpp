@@ -9,7 +9,6 @@ public:
                 zeroCount++;
             }
 
-            // window ko chota karo agar k exceed hore toh
             while (zeroCount > k) {
                 if (nums[left] == 0) {
                     zeroCount--;
