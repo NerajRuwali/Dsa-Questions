@@ -11,8 +11,7 @@ public:
         while(end < n) {
             
             sum += nums[end];  
-          
-            while(sum >= target) {
+           while(sum >= target) {
                 total = min(total, end - start + 1);
                 sum -= nums[start];   
                 start++;
