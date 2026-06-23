@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1861-rotating-the-box](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1861-rotating-the-box) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0918-maximum-sum-circular-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1340-jump-game-v) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1871-jump-game-vii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3660-jump-game-ix) |
