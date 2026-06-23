@@ -19,9 +19,7 @@ public:
             currMin = min(num, currMin + num);
             minSum = min(minSum, currMin);
         }
-
         if(maxSum < 0) return maxSum;
-
         return max(maxSum, totalSum - minSum);
     }
 };
