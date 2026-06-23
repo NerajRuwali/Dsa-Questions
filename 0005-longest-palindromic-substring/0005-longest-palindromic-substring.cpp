@@ -12,10 +12,10 @@ public:
         string ans = "";
 
         for(int i = 0; i < s.size(); i++) {
-            // Odd length
+        
             string odd = expand(s, i, i);
 
-            // Even length
+    
             string even = expand(s, i, i + 1);
 
             if(odd.length() > ans.length()) ans = odd;
