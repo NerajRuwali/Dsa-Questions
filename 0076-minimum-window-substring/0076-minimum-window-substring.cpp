@@ -21,13 +21,13 @@ public:
         freq[s[right]]--;
         right++;
 
-        while (count == 0){ // window valid
+        while (count == 0){ 
         if (right-left < minLen){
             minLen = right - left;
             start =left;
         }
 
-        freq[s[left]]++; // window shrink kardo
+        freq[s[left]]++; 
         if(freq[s[left]] > 0){
             count ++;
             
