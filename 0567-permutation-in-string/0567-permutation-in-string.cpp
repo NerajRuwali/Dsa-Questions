@@ -12,8 +12,6 @@ public:
         vector<int> freq1(26 , 0);
         vector<int> freq2(26,0);
 
-        // s1 ki frequency
-
         for(char ch : s1){
             freq1[ch - 'a']++;
         }
