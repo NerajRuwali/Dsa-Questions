@@ -12,7 +12,7 @@ public:
             if(nums[mid] > nums[high])
                 low = mid + 1;
             else
-                high = mid;
+            high = mid;
         }
 
         return nums[low];
