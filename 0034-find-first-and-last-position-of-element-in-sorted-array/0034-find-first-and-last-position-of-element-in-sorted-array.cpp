@@ -7,8 +7,7 @@ public:
 
         while(low <= high) {
             int mid = low + (high-low)/2;
-
-            if(nums[mid] == target) {
+         if(nums[mid] == target) {
                 ans = mid;
                 high = mid - 1;
             }
@@ -40,8 +39,7 @@ public:
 
         return ans;
     }
-
-    vector<int> searchRange(vector<int>& nums, int target) {
+   vector<int> searchRange(vector<int>& nums, int target) {
         return {firstPosition(nums,target), lastPosition(nums,target)};
     }
 };
