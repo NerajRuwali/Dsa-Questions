@@ -7,7 +7,6 @@ class Solution {
         for(int money: nums) {
             int newLoot = skip + money;
             int newSkip = max(loot , skip);
-
             loot = newLoot;
             skip = newSkip;
         }
