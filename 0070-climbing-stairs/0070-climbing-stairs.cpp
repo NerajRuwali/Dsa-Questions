@@ -11,7 +11,6 @@ public:
             step2 = step1;
             step1 = curr;
         }
-
-        return step1;
+return step1;
     }
 };
