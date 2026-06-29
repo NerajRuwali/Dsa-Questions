@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1861-rotating-the-box](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1861-rotating-the-box) |
 | [1901-find-a-peak-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1914-cyclically-rotating-a-grid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2126-destroying-asteroids) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1871-jump-game-vii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3614-process-string-with-special-operations-ii) |
