@@ -19,6 +19,5 @@ public:
             result.push_back(mp[num]);
         }
         return result;
-
     }
 };
