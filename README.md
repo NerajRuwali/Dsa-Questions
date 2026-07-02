@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [2784-check-if-array-is-good](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3161-block-placement-queries](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3161-block-placement-queries) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1861-rotating-the-box](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1861-rotating-the-box) |
 | [1901-find-a-peak-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1914-cyclically-rotating-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1306-jump-game-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0743-network-delay-time) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -851,10 +855,12 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0621-task-scheduler](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0743-network-delay-time) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0743-network-delay-time) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Memoization
 |  |
 | ------- |
