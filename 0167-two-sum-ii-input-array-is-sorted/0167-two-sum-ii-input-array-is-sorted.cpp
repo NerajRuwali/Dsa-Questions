@@ -16,7 +16,6 @@ public:
                 j--;
             }
         }
-
-        return {};
+ return {};
     }
 };
