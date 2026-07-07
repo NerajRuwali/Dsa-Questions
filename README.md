@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0572-subtree-of-another-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Binary Search
 |  |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0796-rotate-string) |
 ## Queue
 |  |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -806,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0743-network-delay-time) |
 | [1306-jump-game-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -849,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
