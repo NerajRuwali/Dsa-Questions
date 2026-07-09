@@ -3,20 +3,20 @@ public:
 
    int maxSum = INT_MIN;
 
-   int Solve(TreeNode * root){
-   
-    if (root == NULL) return 0 ;
+   int solve(TreeNode* root){
+    if(root == NULL) return 0;
 
-    int left = max(0 , Solve(root->left));
-    int right = max(0 , Solve(root->right));
+    int left = max(0 , solve(root->left));
+    int right = max(0 , solve(root->right));
 
-    maxSum = max(maxSum , root->val + left+ right);
+    maxSum = max(maxSum , root->val + left + right);
 
-    return root->val + max(left, right);
+    return root->val + max(left , right);
    }
-     int maxPathSum(TreeNode* root) {
-       Solve(root);
-       return maxSum;
+   int maxPathSum(TreeNode*root){
+    solve(root);
+    return maxSum;
+   
       
     }
 };
