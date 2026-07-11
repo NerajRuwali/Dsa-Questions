@@ -5,17 +5,16 @@ public:
         int j = numbers.size() - 1;
 
         while (i < j) {
+            int sum = numbers[i] + numbers[j];
 
-            if (numbers[i] + numbers[j] == target) {
+            if (sum == target)
                 return {i + 1, j + 1};
-            }
-            else if (numbers[i] + numbers[j] < target) {
+            else if (sum < target)
                 i++;
-            }
-            else {
+            else
                 j--;
-            }
         }
- return {};
+
+        return {};
     }
 };
