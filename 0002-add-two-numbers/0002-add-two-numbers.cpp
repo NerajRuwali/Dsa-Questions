@@ -1,21 +1,21 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-      // isme ek dummy banayege
+
         ListNode dummy(0);
         ListNode* temp = &dummy;
         int carry = 0;
 
-        while(l1 != NULL || l2 != NULL || carry){
+        while (l1 != NULL || l2 != NULL || carry) {
 
             int sum = carry;
 
-            if(l1 != NULL){
+            if (l1 != NULL) {
                 sum += l1->val;
                 l1 = l1->next;
             }
 
-            if(l2 != NULL){
+            if (l2 != NULL) {
                 sum += l2->val;
                 l2 = l2->next;
             }
