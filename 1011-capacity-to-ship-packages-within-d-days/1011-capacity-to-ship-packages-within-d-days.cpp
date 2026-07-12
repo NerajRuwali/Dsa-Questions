@@ -29,9 +29,9 @@ public:
 
             if (requiredDays <= days) {
                 ans = mid;
-                right = mid - 1; // try smaller capacity
+                right = mid - 1; 
             } else {
-                left = mid + 1;  // need bigger capacity
+                left = mid + 1;  
             }
         }
 
