@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1004-max-consecutive-ones-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1052-grumpy-bookstore-owner) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1288-remove-covered-intervals) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0918-maximum-sum-circular-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0968-binary-tree-cameras](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0968-binary-tree-cameras) |
 | [1025-divisor-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1025-divisor-game) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1340-jump-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
