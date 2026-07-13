@@ -924,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1291-sequential-digits) |
 ## Data Stream
 |  |
 | ------- |
