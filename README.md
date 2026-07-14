@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0392-is-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0509-fibonacci-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0754-reach-a-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0754-reach-a-number) |
 | [0788-rotated-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0788-rotated-digits) |
 | [1025-divisor-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1025-divisor-game) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0349-intersection-of-two-arrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0754-reach-a-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0754-reach-a-number) |
