@@ -9,13 +9,14 @@ public:
         ListNode* slow = &dummy;
 
         for(int i = 0; i <= n; i++)
+        {
             fast = fast->next;
-
-        while(fast != NULL){
+        }
+        while(fast != NULL)
+        {
             fast = fast->next;
             slow = slow->next;
         }
-
         slow->next = slow->next->next;
 
         return dummy.next;
