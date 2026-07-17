@@ -11,13 +11,12 @@ public:
             st.push(digit);
         }
 
-        // agar k abhi bhi bacha hai
+        // if k left
         while (k > 0) {
             st.pop();
             k--;
         }
 
-        // build result
         string res = "";
         while (!st.empty()) {
             res += st.top();
@@ -26,7 +25,6 @@ public:
 
         reverse(res.begin(), res.end());
 
-        // remove leading zeros
         int i = 0;
         while (i < res.size() && res[i] == '0') i++;
 
