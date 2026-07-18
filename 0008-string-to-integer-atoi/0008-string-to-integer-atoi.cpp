@@ -2,6 +2,7 @@ class Solution {
 public:
     int myAtoi(string s) {
         int i = 0, n = s.length();
+
         
         // whitespace skip
         while (i < n && s[i] == ' ') i++;
