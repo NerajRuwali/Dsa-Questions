@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0523-continuous-subarray-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0704-binary-search) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0435-non-overlapping-intervals](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0680-valid-palindrome-ii) |
