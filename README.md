@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0860-lemonade-change) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0796-rotate-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0907-sum-of-subarray-minimums](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1544-make-the-string-great) |
 | [2104-sum-of-subarray-ranges](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0503-next-greater-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Union-Find
 |  |
