@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0279-perfect-squares](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0435-non-overlapping-intervals) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0231-power-of-two](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0868-binary-gap](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
