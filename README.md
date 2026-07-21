@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [2390-removing-stars-from-a-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Bit Manipulation
 |  |
@@ -967,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | ------- |
 | [0204-count-primes](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Data Stream
 |  |
 | ------- |
