@@ -22,7 +22,6 @@ public:
             temp = temp->next;
             len++;
         }
-
         temp->next = head;
         k = k % len;
        int steps = len - k;
