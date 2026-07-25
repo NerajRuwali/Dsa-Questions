@@ -5,14 +5,12 @@ public:
 
         ListNode* slow = head;
         ListNode* fast = head;
-
-        // finding middle
         while (fast && fast->next) {
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        // Reverse second half
+        // second half ko reverse krenge
         ListNode* prev = NULL;
         while (slow) {
             ListNode* next = slow->next;
@@ -20,8 +18,6 @@ public:
             prev = slow;
             slow = next;
         }
-
-        // Compare both the halves
         ListNode* first = head;
         ListNode* second = prev;
 
