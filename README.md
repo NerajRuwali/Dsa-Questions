@@ -860,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0701-insert-into-a-binary-search-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0968-binary-tree-cameras](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0968-binary-tree-cameras) |
+| [0993-cousins-in-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0572-subtree-of-another-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0572-subtree-of-another-tree) |
 | [0743-network-delay-time](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0743-network-delay-time) |
 | [0968-binary-tree-cameras](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0968-binary-tree-cameras) |
+| [0993-cousins-in-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -901,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0279-perfect-squares](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0743-network-delay-time) |
+| [0993-cousins-in-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -934,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0701-insert-into-a-binary-search-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0968-binary-tree-cameras](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0968-binary-tree-cameras) |
+| [0993-cousins-in-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0993-cousins-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Graph Theory
 |  |
