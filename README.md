@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [2126-destroying-asteroids](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2381-shifting-letters-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2381-shifting-letters-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1871-jump-game-vii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2381-shifting-letters-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1732-find-the-highest-altitude](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1871-jump-game-vii) |
+| [2381-shifting-letters-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2381-shifting-letters-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2615-sum-of-distances) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
