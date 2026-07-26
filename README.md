@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0633-sum-of-square-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1861-rotating-the-box) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0657-robot-return-to-origin](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0848-shifting-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1021-remove-outermost-parentheses) |
