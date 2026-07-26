@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0724-find-pivot-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0846-hand-of-straights) |
+| [0848-shifting-letters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0848-shifting-letters) |
 | [0860-lemonade-change](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0904-fruit-into-baskets) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0678-valid-parenthesis-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0796-rotate-string) |
+| [0848-shifting-letters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0848-shifting-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0560-subarray-sum-equals-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0848-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1004-max-consecutive-ones-iii) |
