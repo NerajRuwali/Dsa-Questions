@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2784-check-if-array-is-good) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Bit Manipulation
 |  |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | ------- |
 | [0274-h-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Randomized
 |  |
 | ------- |
