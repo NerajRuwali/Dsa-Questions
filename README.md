@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [2574-left-and-right-sum-differences](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2765-longest-alternating-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2765-longest-alternating-subarray) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -1009,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | ------- |
 | [0204-count-primes](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1291-sequential-digits) |
+| [2765-longest-alternating-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2765-longest-alternating-subarray) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Data Stream
 |  |
