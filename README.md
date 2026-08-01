@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0503-next-greater-element-ii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0392-is-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0516-longest-palindromic-subsequence) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0396-rotate-function](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0396-rotate-function) |
 | [0415-add-strings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0231-power-of-two](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0486-predict-the-winner](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1922-count-good-numbers) |
 ## String Matching
@@ -1069,5 +1073,6 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
