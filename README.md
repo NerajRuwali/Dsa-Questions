@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0848-shifting-letters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0848-shifting-letters) |
 | [0860-lemonade-change](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0678-valid-parenthesis-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0788-rotated-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0968-binary-tree-cameras](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0968-binary-tree-cameras) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0633-sum-of-square-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0754-reach-a-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0754-reach-a-number) |
 | [0788-rotated-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -1074,5 +1077,6 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
