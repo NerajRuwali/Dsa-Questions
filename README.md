@@ -919,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1306-jump-game-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3310-remove-methods-from-project](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3310-remove-methods-from-project) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -976,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | ------- |
 | [0743-network-delay-time](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
