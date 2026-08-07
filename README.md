@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1922-count-good-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -1029,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0204-count-primes](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1291-sequential-digits) |
 | [2765-longest-alternating-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2765-longest-alternating-subarray) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Data Stream
 |  |
