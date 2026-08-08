@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1871-jump-game-vii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3660-jump-game-ix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3660-jump-game-ix) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Sorting
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2126-destroying-asteroids) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [2390-removing-stars-from-a-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3614-process-string-with-special-operations-ii) |
