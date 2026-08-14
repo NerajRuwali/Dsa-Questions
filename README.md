@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0907-sum-of-subarray-minimums](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0957-prison-cells-after-n-days](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0957-prison-cells-after-n-days) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0983-minimum-cost-for-tickets) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0846-hand-of-straights](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0957-prison-cells-after-n-days](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0957-prison-cells-after-n-days) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1189-maximum-number-of-balloons) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0754-reach-a-number](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0754-reach-a-number) |
 | [0788-rotated-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0877-stone-game) |
+| [0957-prison-cells-after-n-days](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0957-prison-cells-after-n-days) |
 | [1025-divisor-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1025-divisor-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0338-counting-bits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0868-binary-gap](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0868-binary-gap) |
+| [0957-prison-cells-after-n-days](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0957-prison-cells-after-n-days) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2401-longest-nice-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2401-longest-nice-subarray) |
@@ -1114,4 +1118,8 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1406-stone-game-iii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0957-prison-cells-after-n-days](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0957-prison-cells-after-n-days) |
 <!---LeetCode Topics End-->
