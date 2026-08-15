@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0968-binary-tree-cameras](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0968-binary-tree-cameras) |
 | [0983-minimum-cost-for-tickets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0983-minimum-cost-for-tickets) |
 | [1025-divisor-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1025-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1340-jump-game-v](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1340-jump-game-v) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1021-remove-outermost-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1124,4 +1126,8 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [0957-prison-cells-after-n-days](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0957-prison-cells-after-n-days) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
