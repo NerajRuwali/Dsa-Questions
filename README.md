@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1901-find-a-peak-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2126-destroying-asteroids) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1833-maximum-ice-cream-bars](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2126-destroying-asteroids) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0621-task-scheduler](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2029-stone-game-ix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1406-stone-game-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1922-count-good-numbers) |
+| [2029-stone-game-ix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2029-stone-game-ix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1114,14 +1118,17 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0877-stone-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2029-stone-game-ix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -1130,4 +1137,8 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1143-longest-common-subsequence) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
