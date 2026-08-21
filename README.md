@@ -1144,4 +1144,8 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
