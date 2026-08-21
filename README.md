@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0860-lemonade-change](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0918-maximum-sum-circular-subarray) |
