@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0992-subarrays-with-k-different-integers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1051-height-checker](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0628-maximum-product-of-three-numbers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0846-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [0274-h-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0274-h-index) |
+| [1051-height-checker](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Randomized
@@ -1151,4 +1154,8 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0020-valid-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
