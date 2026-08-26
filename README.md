@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0992-subarrays-with-k-different-integers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1051-height-checker](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1052-grumpy-bookstore-owner) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0868-binary-gap](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0868-binary-gap) |
 | [0957-prison-cells-after-n-days](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0957-prison-cells-after-n-days) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2401-longest-nice-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2401-longest-nice-subarray) |
