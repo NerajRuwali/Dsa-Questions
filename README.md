@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [2315-count-asterisks](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2315-count-asterisks) |
 | [2381-shifting-letters-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1871-jump-game-vii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1871-jump-game-vii) |
 | [2401-longest-nice-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
