@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [2765-longest-alternating-subarray](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2765-longest-alternating-subarray) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2784-check-if-array-is-good) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1838-frequency-of-the-most-frequent-element](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2126-destroying-asteroids](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2784-check-if-array-is-good) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -779,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Design
 |  |
 | ------- |
