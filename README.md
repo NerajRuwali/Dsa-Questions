@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [3718-smallest-missing-multiple-of-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
