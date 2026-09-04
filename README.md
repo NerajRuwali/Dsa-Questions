@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0977-squares-of-a-sorted-array](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0074-search-a-2d-matrix](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1861-rotating-the-box) |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0322-coin-change](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0743-network-delay-time) |
 | [0993-cousins-in-binary-tree](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
