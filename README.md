@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1624-largest-substring-between-two-equal-characters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/NerajRuwali/Dsa-Questions/tree/master/2540-minimum-common-value) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [1544-make-the-string-great](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1544-make-the-string-great) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1871-jump-game-vii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
