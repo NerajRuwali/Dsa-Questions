@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3870-count-commas-in-range](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/NerajRuwali/Dsa-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
