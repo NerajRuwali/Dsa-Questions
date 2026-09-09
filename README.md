@@ -593,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0696-count-binary-substrings](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 | [0503-next-greater-element-ii](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1187,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview and for the revis
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NerajRuwali/Dsa-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bubble Sort
 |  |
